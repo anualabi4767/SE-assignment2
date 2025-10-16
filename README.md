@@ -19,9 +19,10 @@ To run this project on your local machine:
 
  ## Usage Examples
  When you run the script, you should see output like:
- 
+ ```
  Hello, World!
  Hi Alabi - resolved greeting
+```
 
 ## Branching Workflow
 main: Original and final version of the script
