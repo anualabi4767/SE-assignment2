@@ -23,14 +23,14 @@ To run this project on your local machine:
  Hello, World!
  Hi Alabi - resolved greeting
 
-## Branching Workflow
+**Branching Workflow**
 main: Original and final version of the script
 
 feature-1: Added a personalized greeting
 
 feature-2: Simulated a conflict with main by editing the same line
 
-## Conflict Resolution Summary
+**Conflict Resolution Summary**
 In feature-2, I edited the same line of code that was changed in main. When I tried to merge the branches, Git detected a conflict. I resolved it manually in VS Code by choosing a final version of the greeting and committing the fix. This helped me understand how Git handles conflicting changes and how to resolve them properly.
 
 ## GitHub Issues
