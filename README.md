@@ -13,10 +13,10 @@ To run this project on your local machine:
 2. Make sure Python is installed:
   on your Terminal enter:
   python --version
-
 3. Run the script:
-  on your terminal enter:
-  python hello.py
+   on your terminal enter:
+   bash
+   python hello.py
 
  ## Usage Examples
  When you run the script, you should see output like:
@@ -25,7 +25,9 @@ To run this project on your local machine:
 
 ## Branching Workflow
 main: Original and final version of the script
+
 feature-1: Added a personalized greeting
+
 feature-2: Simulated a conflict with main by editing the same line
 
 ## Conflict Resolution Summary
