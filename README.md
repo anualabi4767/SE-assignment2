@@ -34,6 +34,6 @@ In feature-2, I edited the same line of code that was changed in main. When I tr
 ## GitHub Issues
 Issue #1: Update README with installation and usage instructions (assigned to me)
 
-Issue #2: Review conflict resolution steps (assigned to classmate)
+Issue #2: Review conflict resolution steps (assigned to my classmate)
 
 Both issues were created, tracked, and closed using GitHub Issues.
