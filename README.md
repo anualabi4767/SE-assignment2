@@ -10,10 +10,9 @@ To run this project on your local machine:
    ```bash
    git clone https://github.com/your-username/SE-assignment2.git
    cd SE-assignment2
-2. Make sure Python is installed
-  on your Terminal enter:
+2. Make sure Python is installed on your Terminal enter:
   python --version
-3. Run the script, on your terminal enter:
+4. Run the script, on your terminal enter:
    python hello.py
 
  ## Usage Examples
