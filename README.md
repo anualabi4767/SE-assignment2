@@ -19,7 +19,6 @@ To run this project on your local machine:
 
  ## Usage Examples
  When you run the script, you should see output like:
- ```bash
  Hello, World!
  Hi Alabi - resolved greeting
 
