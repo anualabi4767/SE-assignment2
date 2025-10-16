@@ -1,7 +1,7 @@
 # SE-Assignment2
 
 ## Project Description
-This assignment was part of my coursework for CINS 5318, Software Engineering. This project simulates a collaborative development workflow using Git and GitHub. It demonstrates branching, conflict resolution, and documentation practices in a software engineering context.
+This project was part of my Software Engineering assignment for CINS 5318. I used Git and GitHub to manage a simple Python script while practicing real development workflows like branching, merging, and resolving conflicts. I created multiple branches that edited the same line of code to trigger a merge conflict, then resolved it manually using VS Code. I also tracked tasks using GitHub Issues and documented everything clearly in the README. The goal was to get hands-on experience with version control and understand how collaboration works in real coding environments.
 
 ## Installation Instructions
 
