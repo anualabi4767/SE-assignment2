@@ -15,7 +15,6 @@ To run this project on your local machine:
   python --version
 3. Run the script:
    on your terminal enter:
-   bash
    python hello.py
 
  ## Usage Examples
